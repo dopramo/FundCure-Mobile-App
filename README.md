@@ -85,7 +85,7 @@ For major changes, please open an issue first to discuss your ideas.
 
 ## Feedback
 
-Your feedback is invaluable! Share your thoughts, suggestions, or questions by creating an issue in the repository or emailing us directly at [your-email@example.com].
+Your feedback is invaluable! Share your thoughts, suggestions, or questions by creating an issue in the repository or emailing us directly at [pmdself@gmail.com].
 
 ---
 
